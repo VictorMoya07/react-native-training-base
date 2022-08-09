@@ -63,7 +63,7 @@
       "@hooks/*": ["src/app/hooks"],
       "@screens/*": ["src/app/screens"],
       "@config/*": ["src/config"],
-      "@interfaces/*": ["src/interface"],
+      "@interfaces/*": ["src/interfaces"],
       "@redux/*": ["src/redux"],
       "@services/*": ["src/services"],
       "@utils/*": ["src/utils"]
